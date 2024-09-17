@@ -21,13 +21,13 @@ Este projeto é inspirado na IA **Maid-chan** do anime *Sakurasou no Pet na Kano
       git clone https://github.com/seu-usuario/maid-chan-app.git
    ```
 2. Instale as dependências necessárias:
-  ```bash
+   ```bash
       pip install pyqt5 requests
-  ```
-4. Execute o aplicativo:
+   ```
+3. Execute o aplicativo:
    ```bash
       python main.py
-  ```bash
+   ```
 
 ## 🌟 Inspiração
 O design da interface e o conceito geral foram inspirados na IA Maid-chan, uma personagem carismática e assistente no anime Sakurasou no Pet na Kanojo. A ideia do projeto é oferecer uma experiência visual agradável e funcionalidades úteis.
