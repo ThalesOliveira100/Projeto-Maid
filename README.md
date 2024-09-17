@@ -43,3 +43,8 @@ O design da interface e o conceito geral foram inspirados na IA Maid-chan, uma p
 - Expansão do registro de mensagens com opções avançadas de busca.
 
 Sinta-se à vontade para sugerir melhorias, enviar pull requests, ou apenas bater um papo sobre design e desenvolvimento!
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/ThalesOliveira100)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toliveiradev@outlook.com)
